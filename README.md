@@ -2,4 +2,4 @@
 
 
 * Glimpse of the web app:
-![GIF](readme_resources/Tweet_Analyzer.gif)
+![GIF](readme_resources/mask_detector.gif)
